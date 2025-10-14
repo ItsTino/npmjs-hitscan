@@ -1,0 +1,17 @@
+{
+  "name": "npmjs-hitscan",
+  "version": "1.0.0",
+  "description": "A benign package to test various npm security heuristic scanners",
+  "keywords": [
+    "security",
+    "heuristics",
+    "benign"
+  ],
+  "license": "ISC",
+  "author": "veryserioussystems",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
